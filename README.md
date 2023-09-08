@@ -7,8 +7,7 @@
 - **CPU:** Intel Core i5-9600KF
 - **RAM:** Kingston DDR4 RAM 8GBx2
 -  **GPU:** AMD Radeon RX-580
+-  **Bluetooth:** ASUS USB-BT400
 
-### Current Issues
+### Issues
 - The analog inputs and outputs have pretty low volume, line microphone is unusable
-- Randomly turns on and then off again during sleep for a brief period
-- Most WiFi and Bluetooth USB adapters don't work, so no AirDrop.
