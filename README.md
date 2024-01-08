@@ -1,6 +1,6 @@
 # My-Hackintosh
 
-## Currently Running: Ventura
+## Currently Running: Sonoma
 
 **Specs:**
 - **Motherboard:** MSI H310M Pro-VDH Plus
@@ -8,6 +8,3 @@
 - **RAM:** Kingston DDR4 RAM 8GBx2
 -  **GPU:** AMD Radeon RX-580
 -  **Bluetooth:** ASUS USB-BT400
-
-### Issues
-- The analog inputs and outputs have pretty low volume, line microphone is unusable
